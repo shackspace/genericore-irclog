@@ -1,3 +1,5 @@
+migrated to new location: https://codeberg.org/shackspace/genericore-irclog
+
 # Genericore irclog
 
 This package contains a Genericore output module to forward logs to IRC.
